@@ -1,7 +1,7 @@
 
-### **Kesav_Assignment_Auditoria_SDET** 
+### **SENG_MAIL_AFTER_FILE_CONTENT_MODIFICATION_USING_GMAIL_API_CLIENT** 
 
- - Assignment is to find and replace the text content from the gievn sample text and send as mail attachment to recipient using Google gmail api client.
+ - Exercise is to find and replace the text content from the gievn sample text and send as mail attachment to recipient using Google gmail api client.
  - As part of this exercise, we are replacing the text content of tax identification and type of tax identification entries from the sample file given.
 
 
@@ -13,8 +13,3 @@
 
 * Go to ***SendGmailAfterTextModification .class*** and run the test ***Test_To_Send_Email_Aftter_Modification_InZip()***
 
-
-
-
-
-_**Note:**_ I have set the google api client authentication settings to my test mail (test251191@gmail) , So **Vijay** you would receive email from test251191@gmail.com account. I am reachable at both test251191@gmail.com and k7raor@gmail.com.
