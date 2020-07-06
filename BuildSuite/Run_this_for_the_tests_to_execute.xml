@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="runAllTest" parallel="tests" thread-count="2" configfailurepolicy="continue"
+       preserve-order="false">
+    <test name="kesav Sdet assignment for audtoria.ai">
+        <classes>
+            <class name="SendGmailAfterTextModification"/>
+        </classes>
+    </test>
+</suite>
+
